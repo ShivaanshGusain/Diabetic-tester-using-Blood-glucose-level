@@ -19,3 +19,9 @@ Repository structure -
   Example - Flipper's-length Vs Species classification
   Input - Numeric data
   Output - 0/1/2
+
+3. Cluster Classification
+  Contains the working of how cluster classification works with a model.
+  Example - Leaves Vs Petals 
+  Input - Numeric Data
+  Output - Map/Graph of clustered data and Centroids.
